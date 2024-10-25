@@ -1,6 +1,6 @@
 ### Hi there, I'm Matias 👋
 
-I'm learning for Full Stack Developer
+I'm  Full Stack Developer
 
 <!--
 **matiascamp/matiascamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
